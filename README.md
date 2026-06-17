@@ -10,9 +10,12 @@
 
 **The Festival of Innovation, Fellowship & Achievement by μLearn.**
 
-This isn't just a challenge — it's a World Cup. You'll represent a Nation, play for a Squad Domain, and compete on live leaderboards, all while building real work that belongs in your portfolio.
+This isn't just a challenge, it's a World Cup. You'll represent a Nation, play for a Squad Domain, and compete on live leaderboards, all while building real work that belongs in your portfolio.
 
-Our mission: surface Kerala's most versatile innovators across Maker, Coder, Designer, and Strategist disciplines — and connect them with each other, with startups, and with the world.
+Our mission: surface Kerala's most versatile innovators across Maker, Coder, Designer, and Strategist disciplines, and connect them with each other, with startups, and with the world.
+
+> 👋 **New to GitHub or Markdown?** No worries. You don't need any prior experience.
+> Read the **[Complete Beginner Guide →](./docs/GETTING_STARTED.md)** before proceeding. It covers everything from creating a GitHub account to submitting your first Pull Request, step by step.
 
 ---
 
@@ -33,13 +36,13 @@ You can select multiple domains if your work spans them. Your Squad Domain appea
 
 ## How to Participate
 
-### Step 1 — Join the μLearn Community
+### Step 1: Join the μLearn Community
 
 Register on the μLearn platform [here](https://app.mulearn.org/register).
 
 Watch the [Onboarding Video](https://www.youtube.com/watch?v=IwpOmzSqYao) before proceeding. It walks you through creating your account, joining the Discord server, and getting your MUID.
 
-### Step 2 — Get your MUID
+### Step 2: Get your MUID
 
 <img width="400" alt="Register on μLearn" src="./docs/assets/getmu.png">
 
@@ -47,7 +50,7 @@ Follow the onboarding workflow. Connect your Discord account to obtain your MUID
 
 <img width="400" alt="Get your MUID" src="./docs/assets/muid.png">
 
-### Step 3 — Create Your Profile
+### Step 3: Create Your Profile
 
 Fork this repository, create your player card in the `/profile` directory, and open a Pull Request.
 
@@ -71,7 +74,7 @@ Use [TEMPLATE.md](./TEMPLATE.md) as the base. See [this example profile](./profi
 
 Submit a PR targeting the `main` branch. Your profile is now on the pitch.
 
-### Step 4 — Link Your μLearn Profile Card
+### Step 4: Link Your μLearn Profile Card
 
 Your profile card displays your live karma rank and squad domain progress on the μLearn leaderboard.
 
@@ -93,9 +96,9 @@ Your profile page will be live at:
 https://gtech-mulearn.github.io/mufifa-2026/profile/[your-muid]
 ```
 
-### Step 5 — Join the Discord
+### Step 5: Join the Discord
 
-Join the [μFIFA Discord server](https://discord.com/channels/771670169691881483/1157030408874106991) — your tournament home base.
+Join the [μFIFA Discord server](https://discord.com/channels/771670169691881483/1157030408874106991), your tournament home base.
 
 | Channel | Purpose |
 |---------|---------|
@@ -116,7 +119,7 @@ Nation standings, Squad Domain rankings, and individual μPoint scores are track
 
 ## Profile Validation
 
-Every profile is automatically validated — both locally before you commit, and on GitHub when you open a PR.
+Every profile is automatically validated, both locally before you commit and on GitHub when you open a PR.
 
 **What gets checked:**
 

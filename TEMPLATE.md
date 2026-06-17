@@ -33,7 +33,7 @@
 
 #### Past World Cup Memories:
 
-- What's your most memorable FIFA World Cup moment — a match, a goal, a heartbreak, or an upset?
+- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
 - Where were you when it happened?
 
 #### 2026 Predictions:
@@ -56,13 +56,13 @@
 
 #### History of Open Source and Collaborative Contributions:
 
-- Share open-source projects you've contributed to — your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
+- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
 - *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
 
 #### History of Community Engagement:
 
 - Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended — showing up counts.
+- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
 
 #### Domain Profiles:
 
@@ -71,17 +71,17 @@
   - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
   - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
   - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty — this is where you'll build your track record during μFIFA.
+- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
 
 #### Tools, Workflows & Automations:
 
 - What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
 - Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about — what you want to get good at is just as valid.
+- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
 
 #### Public Portfolio & Recognition:
 
-- Share anything that shows your work in public — a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
+- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
 - This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
 - *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
 
@@ -93,7 +93,7 @@
 #### History of Leadership:
 
 - Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others — leadership doesn't need a title.
+- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
 
 #### Networking:
 

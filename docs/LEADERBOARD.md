@@ -1,8 +1,8 @@
 # μFIFA World Cup 2026 - Leaderboard
 
-Standings are updated every Friday. Nation score is normalised — every squad member matters equally, not just the top scorers.
+Standings are updated every Friday. Nation score is normalised: every squad member matters equally, not just the top scorers.
 
-> **Last updated:** *TBD — standings will appear after Week 1.*
+> **Last updated:** *TBD. Standings will appear after Week 1.*
 
 
 > **Nation Score = Median(individual μPoints of all registered members) x (Active Members / Registered Members) x 100**
@@ -49,10 +49,10 @@ Standings are updated every Friday. Nation score is normalised — every squad m
 
 | Award | Winner | Bonus |
 |-------|--------|-------|
-| Maker — Player of the Match | — | +500 μP |
-| Coder — Player of the Match | — | +500 μP |
-| Designer — Player of the Match | — | +500 μP |
-| Strategist — Player of the Match | — | +500 μP |
+| Maker: Player of the Match | - | +500 μP |
+| Coder: Player of the Match | - | +500 μP |
+| Designer: Player of the Match | - | +500 μP |
+| Strategist: Player of the Match | - | +500 μP |
 
 ---
 
